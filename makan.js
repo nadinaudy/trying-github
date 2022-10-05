@@ -6,4 +6,8 @@ function sudahKenyang() {
   return "sudah kenyang";
 }
 
+//sdijufhskd
+//sdkfhjbsjdhbf
+//sdjfhbsjdhbf
+
 export default makan;
